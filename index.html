@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>لوحات لبنان — التحميل والتحديث الرسمي</title>
+  <style>
+    :root {
+      --bg: #0B1215;
+      --surface: #132026;
+      --border: #263B45;
+      --primary: #10B981;
+      --primary-dark: #0A6B4A;
+      --gold: #F59E0B;
+      --text: #F8FAFC;
+      --muted: #94A3B8;
+    }
+    * { box-sizing: border-box; font-family: system-ui, -apple-system, 'Segoe UI', Tahoma, sans-serif; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      padding: 24px 16px;
+    }
+    .container { max-width: 540px; width: 100%; }
+    .hero {
+      background: linear-gradient(135deg, #064E3B 0%, #0A6B4A 60%, #0F172A 100%);
+      border-radius: 24px;
+      padding: 28px 20px;
+      text-align: center;
+      border: 1px solid rgba(245,158,11,0.35);
+      margin-bottom: 18px;
+    }
+    .badge {
+      display: inline-block;
+      background: rgba(245,158,11,0.18);
+      color: var(--gold);
+      padding: 4px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+    h1 { margin: 0 0 8px; font-size: 26px; }
+    .subtitle { margin: 0; color: #D1FAE5; font-size: 14px; }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    .card h2 { margin: 0 0 8px; font-size: 18px; color: var(--primary); }
+    .card p { margin: 0 0 14px; font-size: 14px; color: var(--muted); line-height: 1.6; }
+    .btn {
+      display: block;
+      width: 100%;
+      text-align: center;
+      text-decoration: none;
+      padding: 14px 18px;
+      border-radius: 14px;
+      font-weight: 700;
+      font-size: 15px;
+      margin-bottom: 10px;
+    }
+    .btn-primary { background: var(--primary); color: #06281E; }
+    .btn-ios { background: #1D4ED8; color: #FFFFFF; }
+    .btn-outline { background: transparent; color: var(--primary); border: 1.5px solid var(--primary); }
+    ol { margin: 0; padding-right: 20px; color: var(--muted); font-size: 13px; line-height: 1.8; }
+    footer { text-align: center; color: var(--muted); font-size: 12px; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="hero">
+      <div class="badge">الرابط الرسمي الدائم للتحديثات</div>
+      <h1>🇱🇧 لوحات لبنان</h1>
+      <p class="subtitle">دليل لوحات السيارات اللبنانية — أندرويد وآيفون</p>
+    </div>
+
+    <div class="card">
+      <h2>🤖 تحميل وتحديث أندرويد (Android)</h2>
+      <p>اضغط لتحميل أحدث إصدار رسمي دائماً (يُحدّث التطبيق مباشرة دون فقدان بياناتك أو تفعيلك).</p>
+      <a class="btn btn-primary" href="https://github.com/alloush89/LENANON-CAR/releases/latest/download/LebanonPlates.apk">
+        📥 تحميل أحدث نسخة Android (APK)
+      </a>
+    </div>
+
+    <div class="card">
+      <h2>🍎 أجهزة آيفون وآيباد (iOS / iPadOS)</h2>
+      <p>يمكن تثبيت التطبيق على أجهزة iPhone عبر ملف <strong>IPA</strong> الرسمي أو عبر <strong>TestFlight</strong>:</p>
+      <a class="btn btn-ios" href="https://github.com/alloush89/LENANON-CAR/releases/latest/download/LebanonPlates.ipa">
+        📥 تحميل نسخة iPhone (IPA)
+      </a>
+      <ol>
+        <li>للتثبيت المباشر على iPhone: استخدم <strong>AltStore</strong> أو <strong>Sideloadly</strong> أو <strong>Signulous</strong> لتثبيت ملف <code>LebanonPlates.ipa</code>.</li>
+        <li>أو اطلب رابط دعوة <strong>Apple TestFlight</strong> من المطوّر للتثبيت بضغطة واحدة.</li>
+      </ol>
+    </div>
+
+    <div class="card">
+      <h2>🗄️ قاعدة البيانات المحدّثة</h2>
+      <p>يمكن تحديث القاعدة مباشرة من داخل التطبيق (تبويب استيراد &gt; التحديث عبر GitHub) أو تحميلها يدوياً:</p>
+      <a class="btn btn-outline" href="https://github.com/alloush89/LENANON-CAR/releases/latest/download/plates.db.zip">
+        📦 تحميل أحدث قاعدة بيانات (plates.db.zip)
+      </a>
+    </div>
+
+    <footer>© 2026 MasterVision — Lebanon Plate Number System</footer>
+  </div>
+</body>
+</html>

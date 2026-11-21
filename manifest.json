@@ -1,0 +1,34 @@
+{
+  "app": {
+    "currentVersion": "1.9.0",
+    "latestVersion": "1.9.0",
+    "updateAvailable": false,
+    "downloadUrl": "https://github.com/alloush89/LENANON-CAR/releases/latest/download/LebanonPlates.apk",
+    "sha256": "",
+    "fileSize": 0,
+    "description": "الهوية البصرية الجديدة + التحديث عبر GitHub + مقارنة القواعد ومنع التكرار",
+    "changes": [
+      "تطوير الهوية البصرية بالكامل مع دعم الوضع الفاتح والداكن",
+      "نقل نظام تحديث التطبيق وتحميل قاعدة البيانات إلى GitHub Releases",
+      "إضافة محرك مقارنة القواعد الخارجية ومنع التكرار العام",
+      "تحسينات أمنية شاملة وتسريع البحث عبر الفهارس"
+    ],
+    "releaseDate": "2026-11-22",
+    "minimumRequiredVersion": "1.8.0",
+    "isCritical": false
+  },
+  "database": {
+    "currentVersion": "1.0.0",
+    "latestVersion": "1.0.0",
+    "updateAvailable": false,
+    "downloadUrl": "https://github.com/alloush89/LENANON-CAR/releases/download/db-v1.0.0/plates.db.zip",
+    "sha256": "",
+    "fileSize": 0,
+    "description": "قاعدة بيانات لوحات السيارات اللبنانية (مضغوطة عبر GitHub Releases)",
+    "changes": [
+      "قاعدة بيانات محدثة ومنظفة من التكرارات مع فهارس بحث سريعة"
+    ],
+    "releaseDate": "2026-11-22"
+  },
+  "lastUpdated": "2026-11-22"
+}
