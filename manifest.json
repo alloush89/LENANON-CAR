@@ -1,11 +1,11 @@
 ﻿{
     "app":  {
-                "currentVersion":  "2.0.0",
-                "latestVersion":  "2.0.0",
+                "currentVersion":  "2.1.0",
+                "latestVersion":  "2.1.0",
                 "updateAvailable":  true,
                 "downloadUrl":  "https://github.com/alloush89/LENANON-CAR/releases/latest/download/LebanonPlates.apk",
-                "sha256":  "f489b5553c90d52b1ec2068f4af37616dc3dd7772cd8abfa7e880f3f07ecbd24",
-                "fileSize":  67626833,
+                "sha256":  "94ab4d6b61a36f9d0f33697cbdeaf8eafd368f88a8b7e1b709b4b3eb95dac147",
+                "fileSize":  67630929,
                 "description":  "Ø§Ù„Ù‡ÙˆÙŠØ© Ø§Ù„Ø¨ØµØ±ÙŠØ© Ø§Ù„Ø¬Ø¯ÙŠØ¯Ø© + Ø§Ù„ØªØ­Ø¯ÙŠØ« Ø¹Ø¨Ø± GitHub + Ù…Ù‚Ø§Ø±Ù†Ø© Ø§Ù„Ù‚ÙˆØ§Ø¹Ø¯ ÙˆÙ…Ù†Ø¹ Ø§Ù„ØªÙƒØ±Ø§Ø±",
                 "changes":  [
                                 "ØªØ·ÙˆÙŠØ± Ø§Ù„Ù‡ÙˆÙŠØ© Ø§Ù„Ø¨ØµØ±ÙŠØ© Ø¨Ø§Ù„ÙƒØ§Ù…Ù„ Ù…Ø¹ Ø¯Ø¹Ù… Ø§Ù„ÙˆØ¶Ø¹ Ø§Ù„ÙØ§ØªØ­ ÙˆØ§Ù„Ø¯Ø§ÙƒÙ†",
