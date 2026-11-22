@@ -18,17 +18,17 @@
                 "isCritical":  false
             },
     "database":  {
-                     "currentVersion":  "2025.02.05",
-                     "latestVersion":  "2025.02.05",
+                     "currentVersion":  "2025.11.04",
+                     "latestVersion":  "2025.11.04",
                      "updateAvailable":  true,
-                     "downloadUrl":  "https://github.com/alloush89/LENANON-CAR/releases/download/db-v2025.02.05/plates.db.zip",
-                     "sha256":  "bc7307d6df812ed85a734843a4897b835077be62b9f5f41379d29a0c91b3c3b4",
-                     "fileSize":  98995967,
+                     "downloadUrl":  "https://github.com/alloush89/LENANON-CAR/releases/download/db-v2025.11.04/plates.db.zip",
+                     "sha256":  "12c568fe6483dc8ff34dfc7126718c7d9650722d6ad367bbb8d98c3a5c43545b",
+                     "fileSize":  319160361,
                      "description":  "Ù‚Ø§Ø¹Ø¯Ø© Ø¨ÙŠØ§Ù†Ø§Øª Ù„ÙˆØ­Ø§Øª Ø§Ù„Ø³ÙŠØ§Ø±Ø§Øª Ø§Ù„Ù„Ø¨Ù†Ø§Ù†ÙŠØ© (Ù…Ø¶ØºÙˆØ·Ø© Ø¹Ø¨Ø± GitHub Releases)",
                      "changes":  [
-                                     "Ù‚Ø§Ø¹Ø¯Ø© Ø¨ÙŠØ§Ù†Ø§Øª Ù…Ø­Ø¯Ø«Ø© ÙˆÙ…Ù†Ø¸ÙØ© Ù…Ù† Ø§Ù„ØªÙƒØ±Ø§Ø±Ø§Øª Ù…Ø¹ ÙÙ‡Ø§Ø±Ø³ Ø¨Ø­Ø« Ø³Ø±ÙŠØ¹Ø©"
+                                     "تحديث قاعدة البيانات بتاريخ 2025-11-04 (النسخة الكاملة الأحدث)"
                                  ],
-                     "releaseDate":  "2025-02-05"
+                     "releaseDate":  "2025-11-04"
                  },
     "lastUpdated":  "2026-11-22"
 }
