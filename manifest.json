@@ -1,12 +1,12 @@
 ﻿{
     "app":  {
-                "currentVersion":  "2.3.0",
-                "latestVersion":  "2.3.0",
+                "currentVersion":  "2.3.1",
+                "latestVersion":  "2.3.1",
                 "updateAvailable":  true,
                 "downloadUrl":  "https://github.com/alloush89/LENANON-CAR/releases/latest/download/LebanonPlates.apk",
-                "sha256":  "1866dca48c0f2b63817b7a7468d227ace8f0d062648b5a6431d1e6c4a4f83070",
-                "fileSize":  67655114,
-                "description":  "استبدال فوري للقاعدة + تحديث تلقائي مباشر داخل التطبيق + بحث سريع بالهاتف والشاسيه",
+                "sha256":  "7152e12a649dfc99a0cd058b9345986228d8b628c9ed21944767a8a5e8b9af0c",
+                "fileSize":  67659210,
+                "description":  "استبدال فوري وذكي للقاعدة يدعم اختلاف أسماء الجداول والأعمدة + تحديث تلقائي مباشر + بحث بالهاتف والشاسيه",
                 "changes":  [
                                 "ØªØ·ÙˆÙŠØ± Ø§Ù„Ù‡ÙˆÙŠØ© Ø§Ù„Ø¨ØµØ±ÙŠØ© Ø¨Ø§Ù„ÙƒØ§Ù…Ù„ Ù…Ø¹ Ø¯Ø¹Ù… Ø§Ù„ÙˆØ¶Ø¹ Ø§Ù„ÙØ§ØªØ­ ÙˆØ§Ù„Ø¯Ø§ÙƒÙ†",
                                 "Ù†Ù‚Ù„ Ù†Ø¸Ø§Ù… ØªØ­Ø¯ÙŠØ« Ø§Ù„ØªØ·Ø¨ÙŠÙ‚ ÙˆØªØ­Ù…ÙŠÙ„ Ù‚Ø§Ø¹Ø¯Ø© Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª Ø¥Ù„Ù‰ GitHub Releases",
